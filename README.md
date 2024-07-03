@@ -3,10 +3,10 @@ Hello Everyone, in this project we will work on the "most streamed spotify songs
 here we will analyze and visualize data so that we can take insights from it and answer quuestions given by stakeholders
 
 We will analyze data in 5 steps
-###step-1 : Import and Prepare :- 
+### step-1 : Import and Prepare :- 
 In this step we will import the required libraries and import data in convinience way.
 
-###step-2 : process/clean :- 
+### step-2 : process/clean :- 
 In this step we are going to clean data in following steps
 
 1.Missing Values: Handle missing values appropriately, such as by imputing or removing rows with missing data, depending on the context and the proportion of missing values.
@@ -19,11 +19,11 @@ In this step we are going to clean data in following steps
 
 5.Data Formatting: Ensure data is formatted consistently, such as by standardizing date and time formats, capitalizing names, and removing any unnecessary whitespace or special characters.
 
-###step-3 : Analyze :-
+### step-3 : Analyze :-
 In this step we will make some changes to the data(grouping, performing some statastical operations) and decide which charts can suit the data
 
-###step-4 : Visualize :- 
+### step-4 : Visualize :- 
 Create charts using Matplotlib or R(Tidyverse).
 
-###step-5 : Share and Answer
+### step-5 : Share and Answer
 Answer Questions from stakeholders and explains what data is talking about
